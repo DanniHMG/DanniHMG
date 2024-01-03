@@ -26,17 +26,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://www.linkedin.com/in/dani-hardy-morveli-gamarra/?fbclid=IwAR3EWW3d1V2rj3q1_BI_HOPll1eeWHtJGjP-FGW74FXUvzHuSkwt27L-zLM"
+  <a href="https://www.linkedin.com/in/dani-hardy-morveli-gamarra/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://www.facebook.com/danny.morvelygamarra"
+  <a href="https://www.facebook.com/danny.morvelygamarra" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://www.instagram.com/morvelygamarra/"
+  <a href="[https://instagram.com/_._.adam._](https://www.instagram.com/morvelygamarra/)" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src=""
+ <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
