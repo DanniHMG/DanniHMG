@@ -24,10 +24,15 @@
 - Constantemente aprendiendo y perfeccionando habilidades en desarrollo web y nuevas tecnologías.
 - Entusiasta del arte digital, combinando tecnología y creatividad para crear obras visuales únicas.
 - Website Personal [link](https://portafoliodannihmg.000webhostapp.com/?fbclid=IwAR0M-aFqXV-mMsx85YZKEZSpeeU2s68d1fXwA04nfIknqIPF6VVffKs9gTU)
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
