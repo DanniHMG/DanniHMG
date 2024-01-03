@@ -12,7 +12,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src=""/>	
+<img align="right" width="400" alt="Shimarin" src="https://www.pixiv.net/en/artworks/63883229"/>	
 <br>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <br>
