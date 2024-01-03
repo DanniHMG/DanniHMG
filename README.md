@@ -15,11 +15,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <br>
 
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div>
-
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 - 📫 Cómo contactarme: [tu-email]@gmail.com
@@ -89,7 +84,10 @@
 
 <br>
 
-
+<div align="right">
+<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  </div>
+  </div>
 
 
 
