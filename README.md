@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm DanniHMG </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Yo soy DanniHMG </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvienido+a+mi+Perfil+de+GitHub;++;Desarrollaror+Full+Stack+en+progreso,;Apasionado+de+Python+y+JavaScript,;Construyendo+el+futuro+con+codigo,;Jugador+de+Videojuegos,;Amante+del+Arte+Digital+y+el+diseño+web..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvienido+a+mi+Perfil+de+GitHub,;Desarrollaror+Full+Stack+en+progreso,;Apasionado+de+Python+y+JavaScript,;Construyendo+el+futuro+con+codigo,;Jugador+de+Videojuegos,;Amante+del+Arte+Digital+y+el+diseño+web..<3"></a>
 </p>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
