@@ -91,7 +91,7 @@
   </div>
   </div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+![](https://i.pximg.net/img-original/img/2021/03/01/00/04/59/88127737_p0.jpg)
 
 
 
