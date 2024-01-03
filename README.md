@@ -19,7 +19,7 @@
 
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
-- 📫 Cómo contactarme: [tu-email]@gmail.com
+- 📫 Cómo contactarme: danihardymorveli@gmail.com
 
 - ⚡Dato curioso: El arte digital y la tecnología son mis grandes pasiones 🎵🎵.
 <br>
