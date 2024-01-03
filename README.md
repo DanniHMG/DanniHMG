@@ -17,11 +17,15 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Apasionado por el diseño y desarrollo de interfaces de usuario e interacción
+- Experiencia en programación con Python, enfocándome en la automatización y análisis de datos.
+- Habilidades en la gestión y estructuración de bases de datos, asegurando eficiencia y accesibilidad de la información.
+- Dominio en el desarrollo web utilizando HTML, CSS y JavaScript, con un enfoque en sitios web responsivos y dinámicos.
+- Constantemente aprendiendo y perfeccionando habilidades en desarrollo web y nuevas tecnologías.
+- Entusiasta del arte digital, combinando tecnología y creatividad para crear obras visuales únicas.
+- Website Personal [link](https://portafoliodannihmg.000webhostapp.com/?fbclid=IwAR0M-aFqXV-mMsx85YZKEZSpeeU2s68d1fXwA04nfIknqIPF6VVffKs9gTU)
+
+<br>
 
 <br><br>
 
