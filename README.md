@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hola , Yo soy DanniHMG </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvienido+a+mi+Perfil+de+GitHub,;Desarrollaror+Full+Stack+en+progreso,;Apasionado+de+Python+y+JavaScript,;Construyendo+el+futuro+con+codigo,;Jugador+de+Videojuegos,;Amante+del+Arte+Digital+y+el+diseño+web..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvienido+a+mi+Perfil+de+GitHub,;Desarrollador+Full+Stack+en+progreso,;Apasionado+de+Python+y+JavaScript,;Construyendo+el+futuro+con+codigo,;Jugador+de+Videojuegos,;Amante+del+Arte+Digital+y+el+diseño+web..<3"></a>
 </p>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -14,7 +14,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://github.com/DanniHMG/restaurante/blob/main/114443262_p0_master1200.jpg"/>
 <br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi
 <br>
 
 
